@@ -1,0 +1,13 @@
+ Volume in drive C is OS
+ Volume Serial Number is 8824-793D
+
+ Directory of C:\Users\Pujan Jesal Shah\Desktop\Jenkinsdemo
+
+25-09-2023  14:53    <DIR>          .
+25-09-2023  14:04    <DIR>          ..
+25-09-2023  14:08               412 Abc.class
+25-09-2023  14:06               122 Abc.java
+25-09-2023  14:53                 0 abc.txt
+25-09-2023  14:11                14 Hello.py
+               4 File(s)            548 bytes
+               2 Dir(s)  122,903,441,408 bytes free
